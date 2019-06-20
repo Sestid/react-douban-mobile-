@@ -3,7 +3,7 @@
 用React框架完成，登录注册界面利用了正则表达式，实现了前后交互，一个完整的项目。</br>
 <strong>一、豆瓣主页：</strong>（包括图片轮播、渲染商品列表）</br>
   ![image](https://github.com/xiaola66/douban-mobile-/blob/master/doubanshiji/main.png)</br>
-<strong>二、商品详情：</strong></br>
+<strong>二、商品详情：</strong>用到id（判断商品）</br>
 1.上半部分：</br>
 ![image](https://github.com/xiaola66/douban-mobile-/blob/master/doubanshiji/detail.png)</br>
 2.下半部分（副文本编译器、鼠标滚动）：</br>
